@@ -1,6 +1,6 @@
 package Study;
 
-public class Arraylist {          //Arraylist 구현하기
+public class Arraylist {
 
 	private int size = 0;
 	private Object[] elementData = new Object[100];
